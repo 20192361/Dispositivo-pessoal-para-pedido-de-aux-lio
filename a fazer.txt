@@ -1,0 +1,3 @@
+- wifi
+- telegram
+- envio de sms ao ligar
